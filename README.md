@@ -19,27 +19,27 @@
 
 ①登录页
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/login.png" alt="登录页"/>
+<img src="./docs/login.png" alt="登录页"/>
 
 ②欢迎页
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/welcome.png" alt="欢迎页"/>
+<img src="./docs/welcome.png" alt="欢迎页"/>
 
 ③账户管理
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/account.png" alt="账户管理"/>
+<img src="./docs/account.png" alt="账户管理"/>
 
 ④添加账户
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/account_add.png" alt="添加账户"/>
+<img src="./docs/account_add.png" alt="添加账户"/>
 
 ⑤账户详情
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/account_info.png" alt="账户详情"/>
+<img src="./docs/account_info.png" alt="账户详情"/>
 
 ⑥任务列表
 
-<img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-admin/main/docs/task.png" alt="任务列表"/>
+<img src="./docs/task.png" alt="任务列表"/>
 
 # 部署方式
 
@@ -50,7 +50,7 @@
 **(1) 克隆项目代码：**
 
 ```bash
-git clone https://github.com/litter-coder/midjourney-proxy-admin
+git clone https://github.com/xinyin025/midjourney-proxy-admin
 cd midjourney-proxy-admin/
 ```
 
@@ -97,10 +97,3 @@ ps -ef | grep npm
 ```sh
 kill -9 [进程id]
 ```
-
-# 联系我们
-
-问题咨询和商务合作可联系
-
- <img src="https://raw.githubusercontent.com/litter-coder/midjourney-proxy-plus/main/docs/manager-qrcode.jpeg" width="240" alt="微信二维码"/>
-
